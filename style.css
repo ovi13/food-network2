@@ -5,6 +5,9 @@ body{
 .f{
     display:flex;
     margin-bottom: 150px;
+    background-image: url(images/download.png);
+    background-repeat: no-repeat;
+    background-position:top;
 }
 .sk{
     color: red;
@@ -27,4 +30,18 @@ body{
 }
 #pic{
     width: 400px;
+    margin-right: -700px;
+    margin-top: 30px;
+}
+.d{
+    width: 400px;
+}
+.A{
+    color: rgb(236, 13, 51);
+}
+.B{
+    display:flex;
+    margin-bottom: 150px;
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-image: url(images/shapes/7.png);
 }
