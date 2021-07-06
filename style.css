@@ -10,7 +10,7 @@ body{
     background-position:top;
 }
 .sk{
-    color: red;
+    color:rgb(241, 12, 50);
 }
 .diet{
     color: rgba(15, 15, 15, 0.705);
@@ -26,7 +26,7 @@ body{
 .half-width{
     width: 50%;
     padding-left: 5%;
-    padding-top: 100px;
+    padding-top: 200px;
     
 }
 #pic{
@@ -64,7 +64,7 @@ body{
     padding-right: 5%;
     padding-top: 2%;
 }
-.table1{
+.box1{
     box-shadow: 20px 20px 50px gray;
     width: 30%;
     margin-left: 10%;
@@ -74,7 +74,7 @@ body{
     
     
 }
-.table2{
+.box2{
     box-shadow: 20px 20px 50px gray;
     width: 30%;
     margin-left: 10%;
@@ -83,7 +83,7 @@ body{
     border-radius: 20px;
 
 }
-.table3{
+.box3{
     box-shadow: 20px 20px 50px gray;
     width: 30%;
     margin-left: 10%;
@@ -96,5 +96,34 @@ body{
     margin-bottom: 150px;
     margin-left: 50px; 
     margin-right: 300px;
+    
+}
+.soc{
+    display: flex;
+}
+.flex5{
+    display: flex;
+    background-color:rgb(241, 12, 50);
+    color: white;
+}
+.ctr{
+    width: 50%;
+    padding-left: 12%;
+
+}
+footer .pink{
+    color: rgb(241, 12, 50);
+}
+footer h2{
+    text-align: center;
+    color: white;
+}
+footer p{
+    text-align: center;
+    color: white;
+}
+footer{
+    background-color: black;
+    
 }
 
